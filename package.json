@@ -1,0 +1,15 @@
+{
+  "name": "instagram-pupteer",
+  "version": "1.0.0",
+  "description": "This is the Instagram scraping repository where I utilize the Puppeteer library to extract data.",
+  "main": "index.js",
+  "scripts": {
+   "test": "echo \"Error: no test specified\" && exit 1",
+"start": "node index.js"
+  },
+  "author": "ayush",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^20.7.4"
+  }
+}
