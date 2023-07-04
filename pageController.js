@@ -1,4 +1,4 @@
-const pageScraper = require('./www');
+const pageScraper = require('./instagram');
 async function scrapeAll(browserInstance){
 	let browser;
 	try{
